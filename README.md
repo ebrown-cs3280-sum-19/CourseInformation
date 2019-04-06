@@ -63,9 +63,9 @@ The second part will be focused on a final group project.
 * Assignments will be given with plenty of time to complete
 * I will allow time in class to work
 * They will require time outside of class especially as they increase in scope and difficulty
-* Late assignments will be incur a 10% penalty
-* Anything turned in over a week late will be incur a 50% penalty
-* If you are struggling to keep up talk to me ASAP. Don't wait until after assignments are due.
+* Late assignments will incur a 10% penalty
+* Anything turned in over a week late will incur a 50% penalty
+* If you are struggling to keep up talk to me ASAP. Don't wait until after the assignment is due.
 * You will use git to turn your code
 * If you don't know git, don't panic! We will discuss how to use git in class and I will show you what you need know
 
