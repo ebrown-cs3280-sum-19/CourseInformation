@@ -5,7 +5,7 @@
 * [Instructor](#instructor)
 * [Course Objectives](#course-objectives)
 * [Book](#book)
-* [Required Software](#required-software)
+* [Software](#required-software)
 * [Course Fee](#course-fee)
 * [Exams](#exams)
 * [Assignments](#assignments)
@@ -37,13 +37,14 @@ classroom lectures.
 
 * Visual C# How to Program (6th Edition)
 
-## Required Software ##
+## Software ##
 
 We will be using Visual Studio 2015+ and git. You may use the free community edition.
 We will cover how to download it as well as git in class.
 
 * Visual Studio 2015 or greater
 * git
+* VS Code (optional)
 * WLS - Windows Linux Subsystem (optional)
 
 ## Course Fee ##
