@@ -2,17 +2,18 @@
 
 ## Contents ##
 
-* [Instructor](#instructor)
-* [Course Objectives](#course-objectives)
-* [Book](#book)
-* [Software](#required-software)
-* [Course Fee](#course-fee)
-* [Exams](#exams)
-* [Assignments](#assignments)
-* [Asking Questions](#asking-questions)
-* [Students With Disabilities](#students-with-disabilities)
-* [Grading](#grading)
-* [Schedule](#schedule)
+- [Syllabus - CS 3280 OO Windows Applications in C#](#syllabus---cs-3280-oo-windows-applications-in-c)
+  - [Contents](#contents)
+  - [Instructor](#instructor)
+  - [Course Objectives](#course-objectives)
+  - [Book](#book)
+  - [Software](#software)
+  - [Course Fee](#course-fee)
+  - [Assignments](#assignments)
+  - [Asking Questions](#asking-questions)
+  - [Students With Disabilities](#students-with-disabilities)
+  - [Grading](#grading)
+  - [Schedule](#schedule)
 
 ## Instructor ##
 
@@ -88,16 +89,16 @@ arrange to provide course materials (including this syllabus) in alternative for
 ## Grading ##
 
     A = 93 - 100%
-    A- = 90 - 92.9%
-    B = 83 – 86.9%
-    B+ = 87 – 89.9%
-    B- = 80 – 82.9%
-    C+ = 77 – 79.9%
-    C = 73 – 76.9%
-    C- = 70 – 72.9%
-    D+ = 67 – 69.9%
-    D = 63 – 66.9%
-    D- = 60 – 62.9%
+    A- = 90 - 92.99%
+    B+ = 87 – 89.99%
+    B = 83 – 86.99%
+    B- = 80 – 82.99%
+    C+ = 77 – 79.99%
+    C = 73 – 76.99%
+    C- = 70 – 72.99%
+    D+ = 67 – 69.99%
+    D = 63 – 66.99%
+    D- = 60 – 62.99%
     E  = below 60%
 
 ## Schedule ##
