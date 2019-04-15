@@ -17,8 +17,9 @@
 
 ## Instructor ##
 
-My name is Ethan Brown. I'm a Weber State Alumni and a Site Reliability Engineer at Adobe.
-I consider myself more of a python developer than C# but I enjoy working with it.
+My name is Ethan Brown. I'm a Weber State Alumni and a Site Reliability Engineer at Adobe. Even though I've done a lot of C# I work with python and bash mostly in my day to day so I will need you all to call me out as I miss those semi-colons in demos. Of the languages I've used I'll say that C# is a close second to python for me. It is a joy to work with and I hope I can show you why it's such a great language.
+
+![Python Dev](python-java.png)
 
 ## Course Objectives ##
 
@@ -36,7 +37,9 @@ taking.
 The book is optional but it might be a useful reference. I will be using it to prepare
 classroom lectures.
 
-* Visual C# How to Program (6th Edition)
+* Visual C# How to Program (6th Edition) (Deitel)
+
+![book](book.jpg)
 
 ## Software ##
 
@@ -111,7 +114,7 @@ needed.
 | Week | Days                    | Chapter                                              |
 | ---- | ----------------------- | :--------------------------------------------------- |
 | 1    | May 6th, 8th            | Course Introduction and Git, Install Software        |
-| 2    | May 13th, 15th          | Visual Studio, Intro to C#, Classes / Objects        |
+| 2    | May 13th, 15th          | Visual Studio, Intro to .NET/C#, Classes / Objects        |
 | 3    | May 20th, 22nd          | Methods and Control Structures                       |
 | 4    | May 27th NO CLASS, 29th | GUI with WPF, Arrays, Strings, Generics, Collections |
 | 5    | Jun 3rd, 5th            | Classes / Objects and Inheritance / Polymorphism     |
