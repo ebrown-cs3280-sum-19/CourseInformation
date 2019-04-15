@@ -17,9 +17,11 @@
 
 ## Instructor ##
 
-My name is Ethan Brown. I'm a Weber State Alumni and a Site Reliability Engineer at Adobe. Even though I've done a lot of C# I work with python and bash mostly in my day to day so I will need you all to call me out as I miss those semi-colons in demos. Of the languages I've used I'll say that C# is a close second to python for me. It is a joy to work with and I hope I can show you why it's such a great language.
+My name is Ethan Brown. I'm a Weber State Alumni and a Site Reliability Engineer at Adobe. You can connect with me on linkedIn at [linkedin.com/in/ethan-brown-dev](https://www.linkedin.com/in/ethan-brown-dev/).
 
-![Python Dev](python-java.png)
+Even though I've done a lot of C#, I mostly work with python and bash in my day to day. This just means I will need you all to call me out as I miss those semi-colons during demos. Of all the languages I've used I'll say that C# is a close second to python for me. It is a joy to work with and I hope I can show you why it's such a great language.
+
+![Python Dev](python-java.png "python dev in java")
 
 ## Course Objectives ##
 
