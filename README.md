@@ -1,5 +1,7 @@
 # Syllabus - CS 3280 OO Windows Applications in C# #
 
+<img align="center" alt="C# Weber CS" src="https://avatars1.githubusercontent.com/u/49282848?s=200&v=4">
+
 ## Contents ##
 
 - [Syllabus - CS 3280 OO Windows Applications in C#](#syllabus---cs-3280-oo-windows-applications-in-c)
