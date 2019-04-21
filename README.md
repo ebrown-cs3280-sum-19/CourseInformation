@@ -10,18 +10,19 @@
   - [Course Objectives](#course-objectives)
   - [Book](#book)
   - [Software](#software)
+  - [Students With Disabilities](#students-with-disabilities)
   - [Course Fee](#course-fee)
   - [Assignments](#assignments)
   - [Asking Questions](#asking-questions)
-  - [Students With Disabilities](#students-with-disabilities)
   - [Grading](#grading)
+  - [Extra Credit](#extra-credit)
   - [Schedule](#schedule)
 
 ## Instructor ##
 
 My name is Ethan Brown. I'm a Weber State Alumni and a Site Reliability Engineer at Adobe. You can connect with me on linkedIn at [linkedin.com/in/ethan-brown-dev](https://www.linkedin.com/in/ethan-brown-dev/).
 
-Even though I've done a lot of C#, I mostly work with python and bash in my day to day. This just means I will need you all to call me out as I miss those semi-colons during demos. Of all the languages I've used I'll say that C# is a close second to python for me. It is a joy to work with and I hope I can show you why it's such a great language.
+Even though I've done a lot of C#, I mostly work with python and bash in my day-to-day work. This just means I will need you all to call me out as I miss those semi-colons and curly braces during demos. Tha being said, of all the languages I've used I'll say that C# is a close second behind python for me.
 
 ![Python Dev](python-java.png "python dev in java")
 
@@ -55,6 +56,12 @@ We will cover how to download it as well as git in class.
 * VS Code (optional)
 * WLS - Windows Linux Subsystem (optional)
 
+## Students With Disabilities ##
+
+Any student requiring accommodations or services due to a disability must contact Services for
+Students with Disabilities (SSD) in room 181 of the Student Services Center. SSD can also
+arrange to provide course materials (including this syllabus) in alternative formats if necessary.
+
 ## Course Fee ##
 
 Course fees for the Computer Science major are designed to cover the costs of lab equipment
@@ -87,12 +94,6 @@ and ask. There are 3 resources for asking questions.
 2. Canvas Discussion Boards
 3. direct email to me (only use this if it is a personal matter or urgent)
 
-## Students With Disabilities ##
-
-Any student requiring accommodations or services due to a disability must contact Services for
-Students with Disabilities (SSD) in room 181 of the Student Services Center. SSD can also
-arrange to provide course materials (including this syllabus) in alternative formats if necessary.
-
 ## Grading ##
 
     A = 93 - 100%
@@ -107,6 +108,10 @@ arrange to provide course materials (including this syllabus) in alternative for
     D = 63 – 66.99%
     D- = 60 – 62.99%
     E  = below 60%
+
+## Extra Credit ##
+
+There will be opportunities for some extra credit. They involve helping me refine the course material. In order to keep materials fresh with minimal errors I will allow you to submit pull requests against it. I will explain how that works as we dive into using Git.
 
 ## Schedule ##
 
