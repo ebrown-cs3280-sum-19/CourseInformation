@@ -15,6 +15,7 @@
   - [Assignments](#assignments)
   - [Asking Questions](#asking-questions)
   - [Grading](#grading)
+  - [CS Academic Cheating Policy](#cs-academic-cheating-policy)
   - [Extra Credit](#extra-credit)
   - [Schedule](#schedule)
 
@@ -108,6 +109,12 @@ and ask. There are 3 resources for asking questions.
     D = 63 – 66.99%
     D- = 60 – 62.99%
     E  = below 60%
+
+## CS Academic Cheating Policy ##
+
+CS policy dictates that any verifiable evidence of student academic cheating, as defined and determined by the instructor, will result in: 
+1) an automatic failing grade for the class and 
+2) a report to the Dean of Students that will include the student's name and a description of the student's dishonest conduct.
 
 ## Extra Credit ##
 
