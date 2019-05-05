@@ -55,7 +55,7 @@ We will cover how to download it as well as git in class.
 * Visual Studio 2015 or greater
 * git
 * VS Code (optional)
-* WLS - Windows Linux Subsystem (optional)
+* WSL - Windows Subsystem for Linux (optional)
 
 ## Students With Disabilities ##
 
