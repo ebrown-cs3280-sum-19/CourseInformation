@@ -21,9 +21,9 @@
 
 ## Instructor ##
 
-My name is Ethan Brown. I'm a Weber State Alumni and a Site Reliability Engineer at Adobe. You can connect with me on linkedIn at [linkedin.com/in/ethan-brown-dev](https://www.linkedin.com/in/ethan-brown-dev/).
+My name is Ethan Brown. I'm a Weber State Alumni and a Software Engineer at local startup called TaxBit. I have experience working for big companies like Adobe and 3M as well. You can connect with me on linkedIn at [linkedin.com/in/ethan-brown-dev](https://www.linkedin.com/in/ethan-brown-dev/).
 
-Even though I've done a lot of C#, I mostly work with python and bash in my day-to-day work. This just means I will need you all to call me out as I miss those semi-colons and curly braces during demos. Tha being said, of all the languages I've used I'll say that C# is a close second behind python for me.
+Even though I've done a lot of C#, I mostly work with python and bash in my day-to-day work. This just means I will need you all to call me out as I miss those semi-colons and curly braces during demos.
 
 ![Python Dev](python-java.png "python dev in java")
 
